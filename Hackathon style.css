@@ -1,0 +1,89 @@
+*{
+  margin:2px;
+  padding: 2px;
+  box-sizing: border-box;
+  background-origin: padding-box;
+  box-shadow: red ;
+}
+
+.search-bar{
+    width: 80%;
+    background: #f0f0f0;
+    color: red;
+    border: 5px solid#dbdbdb;
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+
+}
+.search-btn{
+    width: 4%;
+    background: #f3ecec;
+    color: red;
+    border: 5px solid#d8d4d4;
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+
+}
+.search-bar{
+    width: 80%;
+    background: #f0f0f0;
+    border: 5px solid#dbdbdb;
+    padding: 10px;
+    border-left: none;
+
+}
+.search-btn img{
+    height:100%;
+}
+.logo{
+    width: 100%;
+    background: #f0f0f0;
+    color: red;
+    border: 5px solid#dbdbdb;
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+
+}
+.user-option{
+    margin: 8px;
+    height: 35px;
+    padding:2px;
+    display: flex;
+    margin-left:auto;
+    align-items:center;
+
+}
+.side-bar{
+    position:fixed;
+    top:120px;
+    left: 1;
+    min-width:250px;
+    background-color: red;
+    width:80%;
+    gap:35px;
+    padding-right:20px;
+
+}
+.links{
+    display:block;
+    width: 80%;
+    background: #f0f0f0;
+    color: red;
+    border: 5px solid#dbdbdb;
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+
+}
+.links img{
+    height:25px;
+    margin-right: 20px;
+
+}
+.channel-name{
+    font-size: 14px;
+    margin:2px;
+}
